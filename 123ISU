@@ -5,7 +5,6 @@ from statistics import mode
 import pandas as pd
 import random
 import seaborn as sns
-import countryflag
 from collections import Counter
 from itertools import takewhile
 
